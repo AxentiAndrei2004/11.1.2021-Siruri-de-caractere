@@ -1,0 +1,5 @@
+Nume=str(input('Ce nume ai ?'))
+Prenume=str(input('Ce prenume ai ?'))
+Profesia=str(input('Ce profesie ai ?'))
+print('Ma numesc', Nume,Prenume)
+print('Doresc sa devin', Profesia)
